@@ -9,7 +9,7 @@ This project is a full-stack web application developed as a clone of Airbnb usin
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/rahul4019/airbnb-clone.git
+   git clone https://github.com/Divyakolsure123/Womens-only-airbnb-clone.git
 
    ```
 
@@ -18,13 +18,13 @@ This project is a full-stack web application developed as a clone of Airbnb usin
    Navigate to client directory and install frontend dependencies using yarn
 
    ```
-   yarn install
+   npm install
    ```
 
    Similary navigate to api folder and install backend dependencies
 
    ```
-   yarn install
+   npm install
    ```
 
 3. **ENV variables:**
@@ -41,7 +41,7 @@ This project is a full-stack web application developed as a clone of Airbnb usin
 
      #### DB_URL= your db url
 
-     #### JWT_SECRET= f664eb4da802bc8506946c21677a1ca83fc4c144a67f20113b30903fe449a8c3
+     #### JWT_SECRET= your jwt secret
 
      #### JWT_EXPIRY= 20d
 
@@ -60,11 +60,11 @@ This project is a full-stack web application developed as a clone of Airbnb usin
 4. **Run project:**
    - Open terminal, navigate to client directory and run below command to start frontend
    ```
-       yarn run dev
+       run run dev
    ```
    - Open another terminal, navigate to api directory and run this command to start backend server
    ```
-       yarn start
+       run start
    ```
 
 ## Features
